@@ -1,3 +1,5 @@
+# Read two numbers and print their sum, difference, product, and quotient.
+
 def printResults(numX, numY):
     sum = numX + numY
     diff = numX - numY
